@@ -6,8 +6,8 @@ import "primeflex/primeflex.css";
 import 'primeicons/primeicons.css';
 
 export const metadata = {
-  title: 'Telco Pro',
-  description: 'Telco Pro Portal',
+  title: 'Todo Pro',
+  description: 'Todo Portal',
 }
 
 
